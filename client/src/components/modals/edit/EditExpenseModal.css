@@ -1,0 +1,8 @@
+.edit-expense-modal-background {
+    @apply fixed inset-0 bg-gray-600 bg-opacity-40 backdrop-blur-sm flex justify-center items-center;
+    z-index: 50;
+}
+
+.edit-expense-form-container {
+    @apply p-0 bg-white rounded-3xl;
+}

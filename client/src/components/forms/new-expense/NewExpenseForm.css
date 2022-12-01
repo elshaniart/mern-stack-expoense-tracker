@@ -1,0 +1,9 @@
+.new-expense-form-container {
+    @apply border rounded-3xl shadow-2xl pt-10 px-6;
+    height: 700px;
+    width: 500px;
+}
+
+.new-expense-form-input-container {
+    @apply flex justify-center;
+}

@@ -1,0 +1,7 @@
+.expenses-grid-container {
+    @apply w-full
+}
+
+.expenses-grid-expense {
+    @apply flex flex-row border-b w-full h-16 pt-6;
+}
